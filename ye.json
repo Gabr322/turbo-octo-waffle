@@ -25,12 +25,12 @@
         },
         {
             "id": 2,
-            "name": "idk",
-            "icon": "https://example.com/idk.png",
+            "name": "Slap Battles",
+            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsoM5s0pepMRQ2goG8Qfahwi4VoqNt4DE8mg&s",
             "categories": [
                 {
-                    "name": "Any%",
-                    "subcategories": ["No Glitches", "With Glitches"]
+                    "name": "Kraken%",
+                    "subcategories": ["Any%"]
                 },
                 {
                     "name": "100%",
@@ -44,21 +44,21 @@
             "game_id": 1,
             "category": "Bux% (Demo 3)",
             "subcategory": "Glitchless",
-            "player": "SpeedRunner1",
+            "player": "Gabriel987566",
             "place": 1,
             "time": "01:18:42",
             "date": "2024-12-21",
             "video_url": "https://www.youtube.com/watch?v=imriQQDIj4s&list=PLMQyJX47QtjKGuPgNPjlBD9khMCNuptxi"
         },
         {
-            "game_id": 1,
-            "category": "Ghost% (Demo 3)",
-            "subcategory": "Hard",
-            "player": "GhostMaster",
+            "game_id": 2,
+            "category": "Kraken%",
+            "subcategory": "Any%",
+            "player": "PlayingWithMemes",
             "place": 2,
-            "time": "00:22:15",
+            "time": "00:01:23.817",
             "date": "2025-01-03",
-            "video_url": "https://www.youtube.com/watch?v=example1"
+            "video_url": "https://www.youtube.com/watch?v=jek3iFizXIc"
         },
         {
             "game_id": 1,
