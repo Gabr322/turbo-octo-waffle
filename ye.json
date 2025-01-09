@@ -2,8 +2,8 @@
     "games": [
         {
             "id": 1,
-            "name": "idks",
-            "icon": "https://example.com/idks.png",
+            "name": "Block Tales",
+            "icon": "https://tr.rbxcdn.com/180DAY-ec85688c782324be0a6ed44915431c5c/512/512/Image/Webp/noFilter",
             "categories": ["Any%", "100%", "Warpless"]
         },
         {
