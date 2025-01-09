@@ -1,0 +1,39 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "idks",
+            "icon": "https://example.com/idks.png",
+            "categories": ["Any%", "100%", "Warpless"]
+        },
+        {
+            "id": 2,
+            "name": "idk",
+            "icon": "https://example.com/idk.png",
+            "categories": ["Any%", "100%"]
+        }
+    ],
+    "speedruns": [
+        {
+            "game_id": 1,
+            "category": "Any%",
+            "time": "00:04:55",
+            "date": "2025-01-09",
+            "video_url": "https://www.youtube.com/watch?v=example1"
+        },
+        {
+            "game_id": 1,
+            "category": "100%",
+            "time": "00:05:20",
+            "date": "2025-01-05",
+            "video_url": "https://www.youtube.com/watch?v=example2"
+        },
+        {
+            "game_id": 2,
+            "category": "Any%",
+            "time": "00:10:00",
+            "date": "2025-01-08",
+            "video_url": "https://www.youtube.com/watch?v=example3"
+        }
+    ]
+}
