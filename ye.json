@@ -37,6 +37,21 @@
                     "subcategories": ["No Deaths", "With Deaths"]
                 }
             ]
+        },
+        {
+            "id": 3,
+            "name": "Slap Battles Category Extensions",
+            "icon": "https://images.sftcdn.net/images/t_app-icon-m/p/64301168-df94-4da0-a633-705453785202/2506713101/slap-battles-logo",
+            "categories": [
+                {
+                    "name": "Slap%",
+                    "subcategories": ["1 Slap", "10 Slaps", "100 Slaps", "1000 Slaps"]
+                },
+                {
+                    "name": "100%",
+                    "subcategories": ["No Deaths", "With Deaths"]
+                }
+            ]
         }
     ],
     "speedruns": [
@@ -55,10 +70,20 @@
             "category": "Kraken%",
             "subcategory": "Any%",
             "player": "PlayingWithMemes",
-            "place": 2,
+            "place": 1,
             "time": "00:01:23.817",
-            "date": "2025-01-03",
+            "date": "2023-04-12",
             "video_url": "https://www.youtube.com/watch?v=jek3iFizXIc"
+        },
+        {
+            "game_id": 3,
+            "category": "Slap%",
+            "subcategory": "1 Slap",
+            "player": "cookiebro78",
+            "place": 1,
+            "time": "00:00:04.967",
+            "date": "2023-05-29",
+            "video_url": "https://www.youtube.com/watch?v=A3setQe45Hw"
         },
         {
             "game_id": 1,
