@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Block Tales",
             "icon": "https://tr.rbxcdn.com/180DAY-ec85688c782324be0a6ed44915431c5c/512/512/Image/Webp/noFilter",
-            "categories": ["Any%", "100%", "Warpless"]
+            "categories": ["Bux% (Demo 3)", "Ghost% (Demo 3)", "Ghost% (Hardmode) (Demo 3)", "Venom% (Demo 3)"]
         },
         {
             "id": 2,
@@ -16,10 +16,10 @@
     "speedruns": [
         {
             "game_id": 1,
-            "category": "Any%",
-            "time": "00:04:55",
-            "date": "2025-01-09",
-            "video_url": "https://www.youtube.com/watch?v=example1"
+            "category": "Bux% (Demo 3)",
+            "time": "01:18:42",
+            "date": "2024-12-21",
+            "video_url": "https://www.youtube.com/watch?v=imriQQDIj4s&list=PLMQyJX47QtjKGuPgNPjlBD9khMCNuptxi"
         },
         {
             "game_id": 1,
