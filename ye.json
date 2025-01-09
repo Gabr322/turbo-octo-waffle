@@ -1,39 +1,104 @@
-{
+{ 
     "games": [
         {
             "id": 1,
             "name": "Block Tales",
             "icon": "https://tr.rbxcdn.com/180DAY-ec85688c782324be0a6ed44915431c5c/512/512/Image/Webp/noFilter",
-            "categories": ["Bux% (Demo 3)", "Ghost% (Demo 3)", "Ghost% (Hardmode) (Demo 3)", "Venom% (Demo 3)"]
+            "categories": [
+                {
+                    "name": "Bux% (Demo 3)",
+                    "subcategories": ["Glitchless", "Any%"]
+                },
+                {
+                    "name": "Ghost% (Demo 3)",
+                    "subcategories": ["Normal", "Hard"]
+                },
+                {
+                    "name": "Ghost% (Hardmode) (Demo 3)",
+                    "subcategories": ["Normal", "Hard"]
+                },
+                {
+                    "name": "Venom% (Demo 3)",
+                    "subcategories": ["Easy", "Hard"]
+                }
+            ]
         },
         {
             "id": 2,
             "name": "idk",
             "icon": "https://example.com/idk.png",
-            "categories": ["Any%", "100%"]
+            "categories": [
+                {
+                    "name": "Any%",
+                    "subcategories": ["No Glitches", "With Glitches"]
+                },
+                {
+                    "name": "100%",
+                    "subcategories": ["No Deaths", "With Deaths"]
+                }
+            ]
         }
     ],
     "speedruns": [
         {
             "game_id": 1,
             "category": "Bux% (Demo 3)",
+            "subcategory": "Glitchless",
+            "player": "SpeedRunner1",
+            "place": 1,
             "time": "01:18:42",
             "date": "2024-12-21",
             "video_url": "https://www.youtube.com/watch?v=imriQQDIj4s&list=PLMQyJX47QtjKGuPgNPjlBD9khMCNuptxi"
         },
         {
             "game_id": 1,
-            "category": "100%",
-            "time": "00:05:20",
-            "date": "2025-01-05",
-            "video_url": "https://www.youtube.com/watch?v=example2"
+            "category": "Ghost% (Demo 3)",
+            "subcategory": "Hard",
+            "player": "GhostMaster",
+            "place": 2,
+            "time": "00:22:15",
+            "date": "2025-01-03",
+            "video_url": "https://www.youtube.com/watch?v=example1"
+        },
+        {
+            "game_id": 1,
+            "category": "Ghost% (Hardmode) (Demo 3)",
+            "subcategory": "Normal",
+            "player": "HardcoreRunner",
+            "place": 3,
+            "time": "00:45:30",
+            "date": "2025-01-02",
+            "video_url": "https://www.youtube.com/watch?v=example4"
+        },
+        {
+            "game_id": 1,
+            "category": "Venom% (Demo 3)",
+            "subcategory": "Easy",
+            "player": "VenomKing",
+            "place": 4,
+            "time": "00:37:25",
+            "date": "2025-01-01",
+            "video_url": "https://www.youtube.com/watch?v=example5"
         },
         {
             "game_id": 2,
             "category": "Any%",
+            "subcategory": "With Glitches",
+            "player": "PlayerTwo",
+            "place": 1,
             "time": "00:10:00",
             "date": "2025-01-08",
             "video_url": "https://www.youtube.com/watch?v=example3"
+        },
+        {
+            "game_id": 2,
+            "category": "100%",
+            "subcategory": "No Deaths",
+            "player": "SpeedyGamer",
+            "place": 2,
+            "time": "00:15:00",
+            "date": "2025-01-07",
+            "video_url": "https://www.youtube.com/watch?v=example6"
         }
     ]
 }
