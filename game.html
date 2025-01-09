@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speedruns for Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Speedruns for <span id="game-title">Game Name</span></h1>
+        <a href="index.html">Back to Games</a>
+    </header>
+
+    <main>
+        <!-- Category Filter -->
+        <div id="category-filter">
+            <label for="category-select">Filter by category: </label>
+            <select id="category-select">
+                <option value="all">All Categories</option>
+            </select>
+        </div>
+
+        <!-- Subcategory Filter -->
+        <div id="subcategory-filter">
+            <label for="subcategory-select">Filter by subcategory: </label>
+            <select id="subcategory-select">
+                <option value="all">All Subcategories</option>
+            </select>
+        </div>
+
+        <!-- Speedruns List -->
+        <div id="speedruns-list" class="speedruns-list"></div>
+    </main>
+
+    <footer>
+        <p>Speedrun Tracker &copy; 2025</p>
+    </footer>
+
+    <script src="game.js"></script>
+</body>
+</html>
