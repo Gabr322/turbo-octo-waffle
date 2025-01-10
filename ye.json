@@ -203,7 +203,7 @@
             "player": "PlayingWithMemes",
             "place": 1,
             "time": "00:01:23.817",
-            "date": "2023-04-12",
+            "date": "2023-05-12",
             "video_url": "https://www.youtube.com/watch?v=jek3iFizXIc"
         },
         {
@@ -217,14 +217,44 @@
             "video_url": "https://www.youtube.com/watch?v=A3setQe45Hw"
         },
         {
-            "game_id": 1,
-            "category": "Ghost% (Hardmode) (Demo 3)",
-            "subcategory": "Normal",
-            "player": "HardcoreRunner",
+            "game_id": 2,
+            "category": "Badge Gloves",
+            "subcategory": "Psycho%",
+            "player": "AstherJustDied",
+            "place": 1,
+            "time": "00:02:30.567",
+            "date": "2023-05-09",
+            "video_url": "https://www.youtube.com/watch?v=Tzkx93ED9cs"
+        },
+        {
+            "game_id": 2,
+            "category": "Badge Gloves",
+            "subcategory": "Frostbite%",
+            "player": "Luvanito",
+            "place": 1,
+            "time": "00:01:29.767",
+            "date": "2024-04-28",
+            "video_url": "https://www.youtube.com/watch?v=WpQmFlfq2QU"
+        },
+        {
+            "game_id": 2,
+            "category": "Badge Gloves",
+            "subcategory": "Frostbite%",
+            "player": "Pyrsxa",
+            "place": 2,
+            "time": "00:01:54.000",
+            "date": "2024-04-27",
+            "video_url": "https://www.youtube.com/watch?v=esZ6MAU1xSU"
+        },
+        {
+            "game_id": 2,
+            "category": "Badge Gloves",
+            "subcategory": "Frostbite%",
+            "player": "Eagleplayz",
             "place": 3,
-            "time": "00:45:30",
-            "date": "2025-01-02",
-            "video_url": "https://www.youtube.com/watch?v=example4"
+            "time": "00:02:01.634",
+            "date": "2024-08-08",
+            "video_url": "https://www.youtube.com/watch?v=p8lwpiRk2d4"
         },
         {
             "game_id": 1,
