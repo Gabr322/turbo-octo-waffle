@@ -33,7 +33,7 @@
             "subcategories": ["No Event Gloves", "With Halloween Gloves", "With Christmas Gloves"]
         },
         {
-            "name": "Gloves",
+            "name": "Badge Gloves",
             "subcategories": [
                 "MEGAROCK%",
                 "Plague%",
@@ -198,8 +198,8 @@
         },
         {
             "game_id": 2,
-            "category": "Kraken%",
-            "subcategory": "Any%",
+            "category": "Badge Gloves",
+            "subcategory": "Kraken%",
             "player": "PlayingWithMemes",
             "place": 1,
             "time": "00:01:23.817",
