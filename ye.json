@@ -170,6 +170,36 @@
             ]
         },
         {
+            "id": 6,
+            "name": "Test",
+            "icon": "https://source.boomplaymusic.com/group10/M00/10/02/62602e518a1a4c77af9751a95fd2e243H224W224_320_320.jpg",
+            "categories": [
+                {
+                    "name": "Any%",
+                    "subcategories": ["Any%"]
+                },
+                {
+                    "name": "100%",
+                    "subcategories": ["No Deaths", "With Deaths"]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Test But Better",
+            "icon": "https://source.boomplaymusic.com/group10/M00/10/02/62602e518a1a4c77af9751a95fd2e243H224W224_320_320.jpg",
+            "categories": [
+                {
+                    "name": "Any%",
+                    "subcategories": ["Any%"]
+                },
+                {
+                    "name": "100%",
+                    "subcategories": ["No Deaths", "With Deaths"]
+                }
+            ]
+        },
+        {
             "id": 5,
             "name": "Plants vs Zombies Fusion Category Extensions",
             "icon": "https://static.wikia.nocookie.net/pvz-fusion/images/a/a5/Cherryzilla.png/revision/latest/smart/width/250/height/250?cb=20241225141047",
